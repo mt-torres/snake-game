@@ -1,0 +1,93 @@
+body{
+    background-color: black;
+    background-image:linear-gradient(360deg, transparent ,rgba(96, 38, 199, 0.8),#6026c7);
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Permanent Marker', cursive;
+    color: black;
+}
+
+.canvas{
+    position: relative;
+    box-sizing: border-box;
+
+}
+.game-over{
+    background-image:linear-gradient(360deg, transparent ,rgba(96, 38, 199, 0.8),#6026c7);
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    border-radius: 5px;
+    top: 128px;
+    left:128px;
+    display: none;
+}
+
+.game-over--show{
+    display: block;
+    
+
+}
+
+
+.game-over__title{
+    font-size: 5rem;
+    margin: .5rem 1.2rem;
+}
+
+.game-over__button{
+    position: absolute;
+    width: 100px;
+    height: 35px;
+    margin-left: 75px;
+    font-family: inherit;
+}
+.container{
+    width: max-content;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.game__name{
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    
+}
+
+.game__score{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    margin-bottom: 1rem;
+
+}
+.game__score__division{
+    display: flex;
+}
+.game__score--record{
+    margin-right: 2rem;
+}
+.game__score--text{
+    margin-right: 2rem;
+}
+
+.game__score--input{
+    margin-right: .5rem;
+}
+
+.game-over__button{
+    border: none;
+    border-radius: 5px;
+    margin-top: .5rem;
+    box-shadow: 4px -9px 3px #000;
+    transition: all .5s;
+}
+
+.game-over__button:hover{
+    background-color:rgb(143, 136, 136);
+    cursor: pointer;
+}
