@@ -29,7 +29,7 @@ Improve my logical thinking and JavaScript skills.
 
 Or just acess the game by cliking [here!](https://mt-torres.github.io/alura-dev/snake-game)
 
-#Enhancements:
+## Enhancements:
 - Refactor and organize CSS and Javascript code
 
 
