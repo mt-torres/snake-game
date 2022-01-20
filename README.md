@@ -1,10 +1,34 @@
-# Snake game🐍
+# Snake the game 🐍
 
-My version for the activity from  HTML Web Developer "Recriando o jogo da cobrinha com Javascript" (a DIO bootcamp ).
+## :pencil:Description
+
+This project is my version for the famous snake game.
+
+The activity is related to a DIO bootcamp - HTML Web Developer.
 
 
+## :dart: Goals
+Improve my logical thinking and JavaScript skills.
 
-I have added some more functionalities  as score display and high score (using localstorage API ). Also, I have stylized the page and added game over card.
+## :wrench: Tools
+- Visual Studio code
+- JavaScript
+- CSS
+- Local Storage API
+
+  
+## :arrow_forward: Running the project
+
+1. Clone the project
+
+   ```
+   git clone https://github.com/mt-torres/snake-game
+   ```
+
+2. Open Index.html file.
+
+Or just acess the game by cliking [here!](https://mt-torres.github.io/alura-dev/snake-game)
+
 
 
 
