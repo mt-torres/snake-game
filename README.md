@@ -27,7 +27,7 @@ Improve my logical thinking and JavaScript skills.
 
 2. Open Index.html file.
 
-Or just acess the game by cliking [here!](https://mt-torres.github.io/alura-dev/snake-game)
+Or just acess the game by cliking [here!](https://mt-torres.github.io/snake-game)
 
 ## Enhancements:
 - Refactor and organize CSS and Javascript code
